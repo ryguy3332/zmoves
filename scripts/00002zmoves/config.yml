@@ -1,0 +1,7 @@
+--- !ruby/object:PluginManager::Config
+name: zmoves
+authors:
+- oddeyes3
+version: 0.1.0.0
+deps: []
+added_files: []
