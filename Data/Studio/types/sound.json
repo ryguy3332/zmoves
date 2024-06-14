@@ -1,0 +1,89 @@
+{
+  "klass": "Type",
+  "id": 19,
+  "dbSymbol": "sound",
+  "color": "#c3b5b2",
+  "textId": 18,
+  "damageTo": [
+    {
+      "defensiveType": "water",
+      "factor": 2
+    },
+    {
+      "defensiveType": "electric",
+      "factor": 2
+    },
+    {
+      "defensiveType": "fighting",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "dark",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "ghost",
+      "factor": 0
+    },
+    {
+      "defensiveType": "ice",
+      "factor": 2
+    },
+    {
+      "defensiveType": "grass",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "fire",
+      "factor": 0
+    },
+    {
+      "defensiveType": "normal",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "flying",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "psychic",
+      "factor": 2
+    },
+    {
+      "defensiveType": "bug",
+      "factor": 0
+    },
+    {
+      "defensiveType": "rock",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "dragon",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "steel",
+      "factor": 0
+    },
+    {
+      "defensiveType": "fairy",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "sound",
+      "factor": 2
+    },
+    {
+      "defensiveType": "light",
+      "factor": 0
+    },
+    {
+      "defensiveType": "digital",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "ground",
+      "factor": 0
+    }
+  ]
+}

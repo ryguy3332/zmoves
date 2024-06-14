@@ -1,0 +1,57 @@
+{
+  "klass": "Type",
+  "id": 20,
+  "dbSymbol": "light",
+  "color": "#c3b5b2",
+  "textId": 19,
+  "damageTo": [
+    {
+      "defensiveType": "ice",
+      "factor": 2
+    },
+    {
+      "defensiveType": "ground",
+      "factor": 0
+    },
+    {
+      "defensiveType": "psychic",
+      "factor": 0
+    },
+    {
+      "defensiveType": "rock",
+      "factor": 0
+    },
+    {
+      "defensiveType": "ghost",
+      "factor": 2
+    },
+    {
+      "defensiveType": "dragon",
+      "factor": 2
+    },
+    {
+      "defensiveType": "steel",
+      "factor": 0
+    },
+    {
+      "defensiveType": "dark",
+      "factor": 2
+    },
+    {
+      "defensiveType": "fairy",
+      "factor": 2
+    },
+    {
+      "defensiveType": "sound",
+      "factor": 0
+    },
+    {
+      "defensiveType": "light",
+      "factor": 2
+    },
+    {
+      "defensiveType": "digital",
+      "factor": 0
+    }
+  ]
+}
